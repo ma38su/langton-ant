@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/longton-ant/static/css/main.f2e1df57.chunk.css",
+    "main.js": "/longton-ant/static/js/main.a57fb7e0.chunk.js",
+    "main.js.map": "/longton-ant/static/js/main.a57fb7e0.chunk.js.map",
+    "runtime-main.js": "/longton-ant/static/js/runtime-main.c88533be.js",
+    "runtime-main.js.map": "/longton-ant/static/js/runtime-main.c88533be.js.map",
+    "static/js/2.09b736bc.chunk.js": "/longton-ant/static/js/2.09b736bc.chunk.js",
+    "static/js/2.09b736bc.chunk.js.map": "/longton-ant/static/js/2.09b736bc.chunk.js.map",
+    "static/js/3.1a647482.chunk.js": "/longton-ant/static/js/3.1a647482.chunk.js",
+    "static/js/3.1a647482.chunk.js.map": "/longton-ant/static/js/3.1a647482.chunk.js.map",
+    "index.html": "/longton-ant/index.html",
+    "static/css/main.f2e1df57.chunk.css.map": "/longton-ant/static/css/main.f2e1df57.chunk.css.map",
+    "static/js/2.09b736bc.chunk.js.LICENSE.txt": "/longton-ant/static/js/2.09b736bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c88533be.js",
+    "static/js/2.09b736bc.chunk.js",
+    "static/css/main.f2e1df57.chunk.css",
+    "static/js/main.a57fb7e0.chunk.js"
+  ]
+}
